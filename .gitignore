@@ -1,0 +1,43 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Databases / Runtime State
+checkpoints.sqlite
+checkpoints.sqlite-shm
+checkpoints.sqlite-wal
+*.sqlite
+*.db
+
+# Vector Store Index (generated at runtime)
+rag_index/
+mem0_db/
+
+# Generated Artifacts (samples kept in docs/)
+# docs/*.md is committed intentionally
+
+# Node / Next.js
+frontend_next/node_modules/
+frontend_next/.next/
+frontend_next/out/
+frontend_next/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

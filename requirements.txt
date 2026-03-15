@@ -1,0 +1,26 @@
+# Core Runtime
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# LangGraph / LangChain
+langgraph
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langgraph-checkpoint-sqlite
+
+# Web Search (Market Scout Agent)
+tavily-python
+
+# RAG Memory (FAISS + local embeddings)
+faiss-cpu
+sentence-transformers
+
+# Personalized Agent Memory
+mem0ai
+
+# Groq SDK (for error handling in key rotation)
+groq
