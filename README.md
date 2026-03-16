@@ -145,6 +145,8 @@ Produces a single structured Markdown "System Context" that becomes the ground t
 
 ## 🔄 Workflow Explanation
 
+Loom Video : https://www.loom.com/share/8ed17b0ec0dd481d8dac5cb29f351683
+
 ```
 User submits idea
         │
