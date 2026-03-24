@@ -147,6 +147,8 @@ Produces a single structured Markdown "System Context" that becomes the ground t
 
 Loom Video : https://www.loom.com/share/8ed17b0ec0dd481d8dac5cb29f351683
 
+https://www.loom.com/share/669e1fd3b1394eb59284bc2caaa76a2b
+
 ```
 User submits idea
         │
